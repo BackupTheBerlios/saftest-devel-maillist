@@ -1,0 +1,31 @@
+From santoshakhilesh at huawei.com  Wed Dec 21 14:21:37 2005
+From: santoshakhilesh at huawei.com (Santosh Akhilesh)
+Date: Wed, 21 Dec 2005 18:51:37 +0530
+Subject: [Saftest-devel] About SAF Test
+Message-ID: <001301c60631$79f5bdb0$9412120a@china.huawei.com>
+
+ 
+
+ 
+
+ 
+
+Dear All ,
+
+ 
+
+If I want to run SAF Test on an Open AIS version. How much it will take to
+test all the features ?
+
+ 
+
+Regards,
+
+Santosh Akhilesh
+
+ 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/saftest-devel/attachments/20051221/499e001c/attachment.html>
+
